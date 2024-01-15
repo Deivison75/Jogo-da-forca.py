@@ -5,6 +5,7 @@ from pygame import init, mixer
 # variaveis
 palavra = nome_sorteado
 vidas = 2
+vidas = 6
 ganhou = False
 letras_adivinhadas = []
 palavra_oculta = "_" * len(palavra)
